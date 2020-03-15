@@ -1,4 +1,5 @@
 //백준 1780
+//쿼드트리생각함
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h> 
 
